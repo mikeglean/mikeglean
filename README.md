@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **R-Programming, Python**
 
-- 👨‍💻 All of my projects are available at [(to be updated)]
+- 👨‍💻 All of my projects are available at https://www.kaggle.com/michaellouiseglean/code
 
 - 💬 Ask me about **Excel, PBI, SQL**
 
