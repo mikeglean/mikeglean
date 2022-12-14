@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at https://www.kaggle.com/michaellouiseglean/code
 
-- 💬 Ask me about **Excel, PBI, SQL**
+- 💬 Ask me about **Excel, PBI, SQL, Python**
 
 - 📫 How to reach me: **gleanmike@gmail.com**
 
